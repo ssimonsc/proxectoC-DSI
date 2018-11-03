@@ -1,0 +1,6 @@
+struct HelloWorld
+{
+	long forward;
+	long direction;
+	long emergencyStop;
+};
